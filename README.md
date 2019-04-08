@@ -5,7 +5,7 @@
 
 ### Fig. 1A
 ![Fig. 1A](figure/Fig1A.png)
-Fig. 1A: [R code [[MD]](code/20190408_Fluomics.fig1a.md), [Input file [RDA]](output/fluomics.gseaOutput.RData)  
+Fig. 1A: [R code [MD]](code/20190408_Fluomics.fig1a.md), [Input file [RDA]](output/fluomics.gseaOutput.RData)  
 
 
 ## Supplemental material:
