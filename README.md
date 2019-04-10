@@ -1,11 +1,15 @@
 # FluOMICS lung: source code #
 
 ## List of figures:
-[Fig. 1A](#fig-1a)
+[Fig. 1A](#fig-1a), [Fig. 1D](#fig-1d)  
 
 ### Fig. 1A
 ![Fig. 1A](figure/Fig1A.png)
 Fig. 1A: [R code [MD]](code/20190408_Fluomics.fig1a.md), [Input file [RDA]](output/fluomics.gseaOutput.RData)  
+
+### Fig. 1D
+![Fig. 1D](figure/Fig1D.png)
+Fig. 1D: [R code [MD]](code/20190408_Fluomics.fig1d.md), [Input files [RDA]](output/fluomics.fits.RData+output/fluomics.gseaOutput.RData)  
 
 
 ## Supplemental material:
