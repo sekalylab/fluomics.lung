@@ -34,3 +34,10 @@ output:
 - mock-subtracted SeqExpressionSet: [[RDA]](output/fluomics.seqSetBaselined.RData)  
 - DGEGLM list: [[RDA]](output/fluomics.fits.RData)  
 - gsea results table: [[RDA]](output/fluomics.gseaOutput.RData)  
+  
+### b. Genesets differentiating between Mo-derived and tissue-residents macrophages:
+code:  
+- gmt creation: [[MD]](code/20190415_Fluomics.mdm_vs_trm.md)  
+  
+output:  
+- macrophage origin gmt: [[TSV]](utils/Macrophage.gmt)
