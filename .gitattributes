@@ -4,3 +4,4 @@ input/genes.gtf filter=lfs diff=lfs merge=lfs -text
 utils/gsea-3.0.jar filter=lfs diff=lfs merge=lfs -text
 input/mart_export.txt filter=lfs diff=lfs merge=lfs -text
 utils/CIBERSORT_package.zip filter=lfs diff=lfs merge=lfs -text
+utils/generifs_basic filter=lfs diff=lfs merge=lfs -text
