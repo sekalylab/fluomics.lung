@@ -1,7 +1,7 @@
 # FluOMICS lung: source code #
 
 ## List of figures:
-[Fig. 1A](#fig-1a), [Fig. 1D](#fig-1d), [Fig. 2A](#fig-2a), [Fig. 2B](#fig-2b), [Fig. 2C](#fig-2c)  
+[Fig. 1A](#fig-1a), [Fig. 1D](#fig-1d), [Fig. 2A](#fig-2a), [Fig. 2B](#fig-2b), [Fig. 2C](#fig-2c), [Fig. 2D](#fig-2d)  
 
 ### Fig. 1A
 ![Fig. 1A](figure/Fig1A.png)  
@@ -22,6 +22,10 @@ Fig. 2B: [R code [MD]](code/20190412_Fluomics.fig2b.md), [Input files [TSV]](uti
 ### Fig. 2C
 ![Fig. 2C](figure/Fig2C.png)  
 Fig. 2C: [R·code·[MD]](code/20190423_Fluomics.fig2c.md)  
+  
+### Fig. 2D
+![Fig. 2D](figure/Fig2D.png)  
+Fig. 2D: [R·code·[MD]](code/20190423_Fluomics.fig2d.md)  
 
 
 ## Supplemental material:
