@@ -1,10 +1,10 @@
 # FluOMICS lung: source code #
 
 ## List of figures:
-[Fig. 1A](#fig-1a), [Fig. 1D](#fig-1d), [Fig. 2A](#fig-2a), [Fig. 2B](#fig-2b)  
+[Fig. 1A](#fig-1a), [Fig. 1D](#fig-1d), [Fig. 2A](#fig-2a), [Fig. 2B](#fig-2b), [Fig. 2C](#fig-2c)  
 
 ### Fig. 1A
-![Fig. 1A](figure/Fig1A.png)
+![Fig. 1A](figure/Fig1A.png)  
 Fig. 1A: [R code [MD]](code/20190408_Fluomics.fig1a.md), [Input file [RDA]](output/fluomics.gseaOutput.RData)  
 
 ### Fig. 1D
@@ -17,7 +17,11 @@ Fig. 2A: [R code [MD]](code/20190412_Fluomics.fig2a.md), [Input files [RDA]](out
 
 ### Fig. 2B
 ![Fig. 2B](figure/Fig2B.png)  
-Fig. 2A: [R code [MD]](code/20190412_Fluomics.fig2b.md), [Input files [TSV]](utils/Macrophage.gmt)  
+Fig. 2B: [R code [MD]](code/20190412_Fluomics.fig2b.md), [Input files [TSV]](utils/Macrophage.gmt)  
+
+### Fig. 2C
+![Fig. 2C](figure/Fig2C.png)  
+Fig. 2C: [R·code·[MD]](code/20190423_Fluomics.fig2c.md)  
 
 
 ## Supplemental material:
