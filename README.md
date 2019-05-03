@@ -56,7 +56,7 @@ output:
   
 ### c. Web-scrapping of the interferome data
 code:  
-- gmt creation: [[MD]](code/20190426_Fluomics.interferome.md  
+- gmt creation: [[MD]](code/20190426_Fluomics.interferome.md)  
   
 output:  
 - interferome gmt: [[TSV]](utils/interferome.gmt)
