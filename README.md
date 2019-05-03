@@ -52,4 +52,11 @@ code:
 - gmt creation: [[MD]](code/20190415_Fluomics.mdm_vs_trm.md)  
   
 output:  
-- macrophage origin gmt: [[TSV]](utils/Macrophage.gmt)
+- macrophage origin gmt: [[TSV]](utils/Macrophage.gmt)  
+  
+### c. Web-scrapping of the interferome data
+code:  
+- gmt creation: [[MD]](code/20190426_Fluomics.interferome.md  
+  
+output:  
+- interferome gmt: [[TSV]](utils/interferome.gmt)
