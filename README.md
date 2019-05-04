@@ -21,11 +21,11 @@ Fig. 2B: [R code [MD]](code/20190412_Fluomics.fig2b.md), [Input files [TSV]](uti
 
 ### Fig. 2C
 ![Fig. 2C](figure/Fig2C.png)  
-Fig. 2C: [R·code·[MD]](code/20190423_Fluomics.fig2c.md)  
+Fig. 2C: [R code [MD]](code/20190423_Fluomics.fig2c.md)  
   
 ### Fig. 2D
 ![Fig. 2D](figure/Fig2D.png)  
-Fig. 2D: [R·code·[MD]](code/20190423_Fluomics.fig2d.md)  
+Fig. 2D: [R code [MD]](code/20190423_Fluomics.fig2d.md)  
 
 
 ## Supplemental material:
