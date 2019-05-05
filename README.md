@@ -26,8 +26,11 @@ Fig. 2C: [R code [MD]](code/20190423_Fluomics.fig2c.md)
 ### Fig. 2D
 ![Fig. 2D](figure/Fig2D.png)  
 Fig. 2D: [R code [MD]](code/20190423_Fluomics.fig2d.md)  
-
-
+  
+### Fig. 2H
+![Fig. 2H](figure/Fig2H.png)  
+Fig. 2H: [R code [MD]](code/20190425_Fluomics.fig2h.md), [Input files [RDA]](output/dream.gseaOutput.nakaya.RData)  
+  
 ## Supplemental material:
 
 ### a. RNA-Seq analysis:
