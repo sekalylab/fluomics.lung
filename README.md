@@ -1,7 +1,7 @@
 # FluOMICS lung: source code #
 
 ## List of figures:
-[Fig. 1A](#fig-1a), [Fig. 1D](#fig-1d), [Fig. 2A](#fig-2a), [Fig. 2B](#fig-2b), [Fig. 2C](#fig-2c), [Fig. 2D](#fig-2d)  
+[Fig. 1A](#fig-1a), [Fig. 1D](#fig-1d), [Fig. 2A](#fig-2a), [Fig. 2B](#fig-2b), [Fig. 2C](#fig-2c), [Fig. 2D](#fig-2d), [Fig. 2H](#fig-2h), [Fig. 2J](#fig-2j)  
 
 ### Fig. 1A
 ![Fig. 1A](figure/Fig1A.png)  
@@ -30,7 +30,11 @@ Fig. 2D: [R code [MD]](code/20190423_Fluomics.fig2d.md)
 ### Fig. 2H
 ![Fig. 2H](figure/Fig2H.png)  
 Fig. 2H: [R code [MD]](code/20190425_Fluomics.fig2h.md), [Input files [RDA]](output/dream.gseaOutput.nakaya.RData)  
-  
+
+### Fig. 2J
+![Fig. 2J](figure/Fig2J.png)  
+Fig. 2J: [R code [MD]](code/20190506_Fluomics.fig2j.md)  
+
 ## Supplemental material:
 
 ### a. RNA-Seq analysis:
